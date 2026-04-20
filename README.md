@@ -1,66 +1,104 @@
 # Hrudyansh Kayastha
 
-**Cybersecurity Engineer | Security Automation | Security Systems Builder**
+**Cybersecurity Engineer | AI Security Builder | Founder @ Nyrovex AI**
 
-Cybersecurity engineer focused on building real-world defensive systems, automated security workflows, and scalable backend-driven architectures.
+Cybersecurity engineer focused on building practical security systems, automation workflows, and scalable defensive platforms.
 
-Currently building practical security projects in detection engineering, backend security systems, and AI-assisted cybersecurity workflows, while preparing the launch of **Narvax AI**.
-
----
-
-## Engineering Focus
-
-- Security system design from raw data to actionable response
-- Detection pipelines using log ingestion, correlation, and classification
-- Automated incident response workflows
-- Linux-based system operations and real-time event handling
-- AI-assisted security analysis and decision support systems
+Currently developing real-world cybersecurity tools, AI-powered automation systems, and production-focused projects while building **Nyrovex AI**.
 
 ---
 
-## Current Work
+## Professional Focus
 
-- Autonomous detection and response pipelines for attack behavior tracking
-- Real-time monitoring systems for event ingestion and incident handling
-- Backend architectures for security-focused applications
-- AI-assisted structured analysis systems
-- Product and project development aligned with the upcoming **Narvax AI** startup launch
-
----
-
-## Core Capabilities
-
-### Security Engineering
-- Log analysis and event correlation
-- Detection logic and rule-based classification
-- Incident response workflows
-- MITRE ATT&CK behavioral mapping
-
-### System Engineering
-- Backend architecture design
-- API-driven systems
-- Real-time event processing
-- Pipeline automation
-
-### Infrastructure
-- Linux environments
-- Cloud deployment workflows
-- Web and server integration
-
-### Applied AI in Security
-- Structured data analysis
-- AI-assisted decision systems
+- Cybersecurity engineering and defensive architecture
+- Detection engineering and incident response systems
 - Security automation pipelines
+- AI-integrated cybersecurity solutions
+- Linux security operations
+- Cloud-ready backend systems
+- Real-time monitoring and alert workflows
 
 ---
 
-## Current Direction
+## Core Cybersecurity Skills
 
-Building autonomous cybersecurity systems, SOC-focused infrastructure, and production-grade AI security platforms with a long-term focus on practical security products through **Narvax AI**.
+### Defensive Security
+- Log analysis and correlation
+- Detection rule engineering
+- Threat monitoring pipelines
+- Incident response workflows
+- MITRE ATT&CK mapping
+- Security alert triage
+
+### Offensive Security
+- Web application testing
+- Vulnerability assessment
+- Reconnaissance workflows
+- Security enumeration
+- Bug bounty automation mindset
+
+### Infrastructure Security
+- Linux administration
+- Server deployment
+- Firewall fundamentals
+- Network security basics
+- Web/server stack operations
 
 ---
 
-## Connect With Me
+## Engineering Skills
+
+### Backend & Automation
+- Python
+- FastAPI
+- Bash scripting
+- REST APIs
+- Real-time pipelines
+- Workflow automation
+
+### Data & Systems
+- PostgreSQL
+- MongoDB
+- SQLite
+- Structured security data pipelines
+
+### AI in Security
+- AI-assisted analysis
+- LLM workflow integration
+- Intelligent triage concepts
+- Security automation agents
+
+---
+
+## Active Projects
+
+### FIR Mitra
+AI-assisted FIR validation platform for police workflow improvement.
+
+### ALCDP-X
+Autonomous Linux Cyber Defense Platform for monitoring, detection, and response.
+
+### Web App Firewall
+Rule-based web protection and filtering system.
+
+### Network Security Tools
+Scanning, packet analysis, and defensive utilities.
+
+### Nyrovex AI
+Building next-generation AI + Cybersecurity products.
+
+---
+
+## Current Mission
+
+- Build elite cybersecurity systems before graduation
+- Launch Nyrovex AI products
+- Become job-ready and startup-ready through execution
+- Ship real projects consistently
+
+---
+
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrudyansh-kayastha/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/HrudyanshKayastha)
@@ -78,18 +116,6 @@ Building autonomous cybersecurity systems, SOC-focused infrastructure, and produ
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-## Current Build Focus
-
-- AI-powered cybersecurity systems
-- Detection and response automation
-- Security monitoring pipelines
-- Linux defensive engineering
-- Scalable backend security tools
 
 ---
 
@@ -100,7 +126,3 @@ Building autonomous cybersecurity systems, SOC-focused infrastructure, and produ
 ![](https://streak-stats.demolab.com/?user=HrudyanshKayastha&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HrudyanshKayastha&theme=dark&hide_border=false&layout=compact)
-
----
-
-[![](https://komarev.com/ghpvc/?username=HrudyanshKayastha&icon=6&color=5)](https://visitcount.itsvg.in)

@@ -35,6 +35,7 @@ Currently developing real-world cybersecurity tools, AI-powered automation syste
 - Vulnerability assessment
 - Reconnaissance workflows
 - Security enumeration
+- Security testing methodology
 - Bug bounty automation mindset
 
 ### Infrastructure Security
@@ -43,6 +44,7 @@ Currently developing real-world cybersecurity tools, AI-powered automation syste
 - Firewall fundamentals
 - Network security basics
 - Web/server stack operations
+- Secure system configuration
 
 ---
 
@@ -55,18 +57,21 @@ Currently developing real-world cybersecurity tools, AI-powered automation syste
 - REST APIs
 - Real-time pipelines
 - Workflow automation
+- API integrations
 
 ### Data & Systems
 - PostgreSQL
 - MongoDB
 - SQLite
 - Structured security data pipelines
+- Event-driven architecture basics
 
 ### AI in Security
 - AI-assisted analysis
 - LLM workflow integration
 - Intelligent triage concepts
 - Security automation agents
+- Structured decision support systems
 
 ---
 
@@ -82,7 +87,7 @@ Autonomous Linux Cyber Defense Platform for monitoring, detection, and response.
 Rule-based web protection and filtering system.
 
 ### Network Security Tools
-Scanning, packet analysis, and defensive utilities.
+Scanning, packet analysis, monitoring, and defensive utilities.
 
 ### Nyrovex AI
 Building next-generation AI + Cybersecurity products.
@@ -95,13 +100,14 @@ Building next-generation AI + Cybersecurity products.
 - Launch Nyrovex AI products
 - Become job-ready and startup-ready through execution
 - Ship real projects consistently
+- Build a strong public engineering portfolio
 
 ---
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrudyansh-kayastha/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/HrudyanshKayastha)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/hrudyanshkayastha)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hrudyansh80@gmail.com)
 
 ---
@@ -116,13 +122,15 @@ Building next-generation AI + Cybersecurity products.
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=HrudyanshKayastha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=hrudyanshkayastha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=HrudyanshKayastha&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=hrudyanshkayastha&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HrudyanshKayastha&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrudyanshkayastha&theme=dark&hide_border=false&layout=compact)

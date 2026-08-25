@@ -1,136 +1,474 @@
 # Hrudyansh Kayastha
 
-**Cybersecurity Engineer | AI Security Builder | Founder @ Nyrovex AI**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:111827&height=180&section=header&text=Hrudyansh%20Kayastha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-Cybersecurity engineer focused on building practical security systems, automation workflows, and scalable defensive platforms.
+<p align="center">
+  <strong>Cybersecurity Engineer | AI Security Builder | Founder @ Nyrovex AI</strong>
+</p>
 
-Currently developing real-world cybersecurity tools, AI-powered automation systems, and production-focused projects while building **Nyrovex AI**.
+<p align="center">
+  <a href="https://github.com/hrudyanshkayastha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/hrudyansh-kayastha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## Professional Focus
+## SYSTEM PROFILE
 
-- Cybersecurity engineering and defensive architecture
-- Detection engineering and incident response systems
-- Security automation pipelines
-- AI-integrated cybersecurity solutions
-- Linux security operations
-- Cloud-ready backend systems
-- Real-time monitoring and alert workflows
+```text
+┌───────────────────────────────────────────────────────────────┐
+│                    NYROVEX SECURITY TERMINAL                  │
+├───────────────────────────────────────────────────────────────┤
+│                                                               │
+│  USER        : Hrudyansh Kayastha                             │
+│  ROLE        : Cybersecurity Engineer                         │
+│  COMPANY     : Nyrovex AI                                     │
+│  FLAGSHIP    : ALCDP-X                                        │
+│  DOMAIN      : AI + Cybersecurity                             │
+│  PLATFORM    : Linux / Cloud / Security Infrastructure        │
+│                                                               │
+│  STATUS      : BUILDING                                       │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <img src="https://github-readme-terminal.vercel.app/?lines=whoami;Hrudyansh%20Kayastha;./mission.sh;Building%20autonomous%20cyber%20defense;./alcdp-x%20--status;SYSTEM%20BUILDING;./nyrovex-ai%20--mode%20production;EXECUTE%20%7C%20DETECT%20%7C%20RESPOND&width=850&height=300&font=Fira%20Code&color=00ff9c&background=0d1117">
+</p>
 
 ---
 
-## Core Cybersecurity Skills
+# ABOUT
+
+I’m a cybersecurity engineer and builder focused on **defensive security, Linux systems, AI-powered security automation, and production-grade infrastructure**.
+
+I am currently building **Nyrovex AI** and its flagship cybersecurity platform **ALCDP-X**.
+
+My focus is not on building another collection of dashboards.
+
+The objective is to build systems capable of:
+
+```text
+DETECT
+   ↓
+CORRELATE
+   ↓
+ANALYZE
+   ↓
+DECIDE
+   ↓
+RESPOND
+   ↓
+VERIFY
+```
+
+---
+
+# WORKSTATION
+
+```text
+                         ┌──────────────────────────────┐
+                         │       SECURITY WORKSTATION   │
+                         ├──────────────────────────────┤
+                         │                              │
+                         │   Linux                     │
+                         │      │                       │
+                         │      ├── Detection           │
+                         │      ├── eBPF / System Sec    │
+                         │      ├── Threat Intelligence  │
+                         │      └── Automation            │
+                         │                              │
+                         │   Python                     │
+                         │      │                       │
+                         │      ├── Security Tools       │
+                         │      ├── APIs                  │
+                         │      ├── AI Workflows         │
+                         │      └── Agents                │
+                         │                              │
+                         │   Infrastructure              │
+                         │      │                       │
+                         │      ├── Docker                │
+                         │      ├── PostgreSQL            │
+                         │      ├── Cloud                 │
+                         │      └── Distributed Systems  │
+                         │                              │
+                         └──────────────────────────────┘
+```
+
+---
+
+# SECURITY DOMAIN
+
+<table>
+<tr>
+<td width="50%">
 
 ### Defensive Security
-- Log analysis and correlation
-- Detection rule engineering
-- Threat monitoring pipelines
-- Incident response workflows
-- MITRE ATT&CK mapping
-- Security alert triage
+
+* Detection Engineering
+* Threat Detection
+* Log Analysis
+* Security Monitoring
+* IOC Intelligence
+* Incident Response
+* MITRE ATT&CK
+* Risk Scoring
+* Security Automation
+
+</td>
+<td width="50%">
 
 ### Offensive Security
-- Web application testing
-- Vulnerability assessment
-- Reconnaissance workflows
-- Security enumeration
-- Security testing methodology
-- Bug bounty automation mindset
 
-### Infrastructure Security
-- Linux administration
-- Server deployment
-- Firewall fundamentals
-- Network security basics
-- Web/server stack operations
-- Secure system configuration
+* Web Application Security
+* Vulnerability Assessment
+* Reconnaissance
+* Enumeration
+* Security Testing
+* Bug Bounty Methodology
+* Adversarial Thinking
+* Attack Surface Analysis
 
----
-
-## Engineering Skills
-
-### Backend & Automation
-- Python
-- FastAPI
-- Bash scripting
-- REST APIs
-- Real-time pipelines
-- Workflow automation
-- API integrations
-
-### Data & Systems
-- PostgreSQL
-- MongoDB
-- SQLite
-- Structured security data pipelines
-- Event-driven architecture basics
-
-### AI in Security
-- AI-assisted analysis
-- LLM workflow integration
-- Intelligent triage concepts
-- Security automation agents
-- Structured decision support systems
+</td>
+</tr>
+</table>
 
 ---
 
-## Active Projects
+# ENGINEERING STACK
 
-### FIR Mitra
-AI-assisted FIR validation platform for police workflow improvement.
+### Programming
 
-### ALCDP-X
-Autonomous Linux Cyber Defense Platform for monitoring, detection, and response.
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,js">
+</p>
 
-### Web App Firewall
-Rule-based web protection and filtering system.
+### Infrastructure
 
-### Network Security Tools
-Scanning, packet analysis, monitoring, and defensive utilities.
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,git">
+</p>
 
-### Nyrovex AI
-Building next-generation AI + Cybersecurity products.
+### Backend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask">
+</p>
 
-## Current Mission
+### Databases
 
-- Build elite cybersecurity systems before graduation
-- Launch Nyrovex AI products
-- Become job-ready and startup-ready through execution
-- Ship real projects consistently
-- Build a strong public engineering portfolio
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrudyansh-kayastha/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/hrudyanshkayastha)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hrudyansh80@gmail.com)
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite">
+</p>
 
 ---
 
-## Tech Stack
+# AI + CYBERSECURITY
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+```text
+                 AI SECURITY ENGINE
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+       Detection       Analysis       Response
+          │              │              │
+          ↓              ↓              ↓
+      Telemetry       LLM / RAG      Automation
+          │              │              │
+          └──────────────┼──────────────┘
+                         ↓
+                  Decision Engine
+                         ↓
+                  Security Action
+                         ↓
+                    Verification
+```
+
+### Focus Areas
+
+* LLM security workflows
+* AI-assisted detection
+* RAG security systems
+* Security agents
+* Automated triage
+* Intelligent decision support
+* AI governance
+* Security automation
 
 ---
 
-## GitHub Stats
+# FLAGSHIP PROJECT
 
-![](https://github-readme-stats.vercel.app/api?username=hrudyanshkayastha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+## ALCDP-X
 
-![](https://streak-stats.demolab.com/?user=hrudyanshkayastha&theme=dark&hide_border=false)
+### Autonomous Linux Cyber Defense Platform
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrudyanshkayastha&theme=dark&hide_border=false&layout=compact)
+ALCDP-X is my primary cybersecurity engineering project and the flagship product being developed under **Nyrovex AI**.
+
+The platform is designed around autonomous cyber defense.
+
+```text
+Traditional SOC
+
+Telemetry
+    ↓
+Detection
+    ↓
+Analyst
+    ↓
+Investigation
+    ↓
+Decision
+    ↓
+Response
+```
+
+```text
+ALCDP-X Direction
+
+Telemetry
+    ↓
+Detection
+    ↓
+Correlation
+    ↓
+Threat Reasoning
+    ↓
+Risk Evaluation
+    ↓
+Automated Response
+    ↓
+Verification
+```
+
+### Core Architecture
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                         ALCDP-X                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  TELEMETRY                                                  │
+│      │                                                      │
+│      ▼                                                      │
+│  DETECTION ENGINE                                            │
+│      │                                                      │
+│      ▼                                                      │
+│  IOC INTELLIGENCE                                            │
+│      │                                                      │
+│      ▼                                                      │
+│  ATTACK PATH ENGINE                                          │
+│      │                                                      │
+│      ▼                                                      │
+│  MITRE ATT&CK MAPPING                                        │
+│      │                                                      │
+│      ▼                                                      │
+│  RISK ENGINE                                                 │
+│      │                                                      │
+│      ▼                                                      │
+│  DECISION ENGINE                                             │
+│      │                                                      │
+│      ▼                                                      │
+│  RESPONSE / AUTOMATION                                       │
+│      │                                                      │
+│      ▼                                                      │
+│  VERIFICATION                                                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Primary Objectives
+
+* Linux defense
+* Threat detection
+* IOC intelligence
+* Attack-path analysis
+* MITRE ATT&CK mapping
+* Risk scoring
+* Incident management
+* Automated response
+* AI-assisted security operations
+
+---
+
+# OTHER PROJECTS
+
+## FIR Mitra
+
+AI-assisted platform designed to support FIR analysis and police workflow automation.
+
+**Technologies:** AI, RAG, structured legal information, workflow automation.
+
+---
+
+## Web Application Firewall
+
+Rule-based web protection and filtering system focused on detecting and blocking suspicious HTTP traffic.
+
+---
+
+## Network Security Toolkit
+
+Security utilities covering:
+
+```text
+Scanning
+Packet Analysis
+Enumeration
+Monitoring
+Defensive Diagnostics
+Automation
+```
+
+---
+
+# ENGINEERING PRINCIPLES
+
+```text
+             BUILD
+               │
+               ▼
+            TEST
+               │
+               ▼
+           MEASURE
+               │
+               ▼
+           VALIDATE
+               │
+               ▼
+            DEPLOY
+               │
+               ▼
+           IMPROVE
+```
+
+### Principles
+
+* Ship over speculation
+* Evidence over hype
+* Automation over repetition
+* Detection over dashboards
+* Reliability over novelty
+* Security over convenience
+* Production over prototypes
+* Customer value over technical vanity
+
+---
+
+# CURRENT MISSION
+
+```text
+2026
+ │
+ ├── Deepen Cybersecurity Engineering
+ │
+ ├── Master Linux Security
+ │
+ ├── Advance Detection Engineering
+ │
+ ├── Build AI Security Infrastructure
+ │
+ ├── Ship ALCDP-X
+ │
+ └── Build Nyrovex AI
+        │
+        ▼
+   Real Customers
+        │
+        ▼
+   Real Security Outcomes
+        │
+        ▼
+   Sustainable Cybersecurity Company
+```
+
+---
+
+# GITHUB ANALYTICS
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hrudyanshkayastha&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true">
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=hrudyanshkayastha&theme=github-dark-blue&hide_border=true">
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrudyanshkayastha&layout=compact&theme=github_dark&hide_border=true">
+
+</p>
+
+---
+
+# CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrudyanshkayastha&theme=github-compact&hide_border=true">
+</p>
+
+---
+
+# SECURITY MINDSET
+
+```text
+┌──────────────────────────────────────────────┐
+│              SECURITY MINDSET                │
+├──────────────────────────────────────────────┤
+│                                              │
+│  Assume breach.                              │
+│  Assume failure.                             │
+│  Assume adversaries adapt.                   │
+│                                              │
+│  Detect.                                     │
+│  Explain.                                    │
+│  Respond.                                    │
+│  Verify.                                     │
+│  Recover.                                    │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# CONNECT
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/hrudyansh-kayastha/">
+<img src="https://img.shields.io/badge/LinkedIn-Hrudyansh%20Kayastha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/hrudyanshkayastha">
+<img src="https://img.shields.io/badge/GitHub-hrudyanshkayastha-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:hrudyansh80@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<strong>Building the next generation of autonomous cyber defense.</strong>
+
+<br>
+
+Nyrovex AI | ALCDP-X
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0f172a&height=100&section=footer" />
+</p>

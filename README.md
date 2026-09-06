@@ -1,18 +1,5 @@
-### ⚠️ Why Your Profile Is Showing Code Instead of Rich Visuals
 
-In your screenshot, the README content was pasted **inside triple backticks (` ```markdown `)** along with the prompt header text (`Yes. One complete file...`). This caused GitHub to render a code box instead of executing the visual HTML and markdown.
 
-Also, your left sidebar on GitHub still shows the old email (`hrudyansh80@gmail.com`).
-
----
-
-### 🛠️ 2-Minute Fix (Click & Paste)
-
-1. On your GitHub profile, click the **Pencil icon ✏️** (top right of the README box) to edit `hrudyanshkayastha/README.md`.
-2. Press **`Ctrl + A`** then **`Backspace`** to clear the entire editor.
-3. **Copy and paste the exact text below** (do not wrap it in backticks):
-
----
 
 # Hrudyansh Kayastha
 
@@ -322,8 +309,4 @@ SHIP LIKE A BUILDER.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:020617&height=120&section=footer" alt="Footer" />
 </p>
-
----
-
-4. Click **Commit changes** in GitHub.
-5. On the left sidebar of your profile, click **Edit profile** and change the public email to **`hrudyansh06@gmail.com`**.
+```
